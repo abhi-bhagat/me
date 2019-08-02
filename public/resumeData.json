@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Abhishek Bhagat",
+    "occupation":"Web Developer",
+    "description":"I'm an accomplished, creative professional with a proven track record in all aspects of creative process: conceptualization, planning and execution.",
+    "image":"profilepic.jpg",
+    "bio":"I’m a web developer and graphic designer living in Vancouver, British Columbia, Canada. I spend my days with my hands in many different areas of web development from back end programming (PHP, MySQL) to front end engineering (HTML, CSS, and jQuery/Javascript,React), digital accessibility, user experience and visual design. I’m extremely passionate about web development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.",
+    "contactmessage":"REACH ME VIA EMAIL",
+    "email": "abhishekbht01@gmail.com",
+    "phone": "604-446-8820",
+    "address":{
+      "street":"6494 Prince Albert Street",
+      "city":"Vancouver",
+      "state":"British Columbia",
+      "zip": "V5W 3E6"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/bhagat.abhi.01",
+        "className":"fa fa-facebook"
+      },
+      
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/abhi-bhagat/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/abhishek.bhagat_",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/abhi-bhagat",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Langara",
+        "degree":"PDD- Web and Mobile Application",
+        "graduated":"2018 - present",
+        "description":"This program gave me in depth knowledge of all the latest Web technologies that are prevalent these days. For example,: React, HTML/CSS, JavaScript, JQuery, My SQL, Android, Swift"
+      },
+      {
+        "school":"DAVIET",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"2013-2017",
+        "description":"In this program i learned about the different programming languages like: C, C++, JAVA ; Networking, Databases, OS working and Project Management models."
+      }
+    ],
+    "work":[
+      {
+        "company":"SIGNTIONARY",
+        "title":"Front End Developer ",
+        "years":"",
+        "description":"Signtionary is a mobile application that teaches sign languages.It brings together a set of well constructed scholarly lessons a solid dictionary with an ample number of entries, and also phrase book consisting of everyday phrases."
+      },
+      {
+        "company":"MELDER",
+        "title":"Database and front End Developer",
+        "years":"",
+        "description":"Melder aims at providing a simpler management system to pharmacy owners.It uses graphical means to show sales, profits and stocks in an interactive and easy to use way.With Melder pharmacy owners could keep track of the sales and inventory, change profit margins for every medicine they are selling and generate e-receipts for the customers and much more."
+      },
+      {
+        "company":"FIXIN",
+        "title":"Web and database developer",
+        "years":"",
+        "description":"Fixin aimed at bridging the gaps between customer and the tradespersons by giving them a common platform where customer can text, share pictures to discuss the issue and book the tradesperson depending upon their need and availability from the mobile application.They tradesperson on the other hand can build their profile and share the services that they provide and their charges for the same."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"75%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"JQuery",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"React Movies",
+        "category":"Mobile App fetching data from movies API",
+        "image":"movies.png",
+        "url":"https://github.com/abhi-bhagat/Movies-App"
+      },
+      {
+        "title":"Resume",
+        "category":"My resume",
+        "image":"resume.png",
+        "url":"#"
+      },
+      {
+        "title":"FixIn",
+        "category":"Website I built for a a product advertisement",
+        "image":"fixin.png",
+        "url":"https://github.com/abhi-bhagat/FixIn"
+      },
+      {
+        "title":"Melder",
+        "category":"Created using HTML/CSS, bootstrap and MYSQL as backend",
+        "image":"melder.png",
+        "url":"#"
+      }
+    ]
+  }
+  
+}
